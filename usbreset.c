@@ -36,9 +36,9 @@ void color_reset()
     fflush(stdout);
 }
 
-int main(int argc, char **argv)
+int main(int argc, char** argv)
 {
-    const char *filename;
+    const char* filename;
     int fd;
     int rc;
 
